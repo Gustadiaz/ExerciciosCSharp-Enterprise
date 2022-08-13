@@ -1,1 +1,3 @@
-# ExerciciosCSharp-Enterprise
+# ExerciciosC#
+
+Gustavo Diaz Gonzalez
