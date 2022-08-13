@@ -1,0 +1,15 @@
+D:\Fiap2\EnterpriseApplicationDevelopment\VisualStudio\Exercicios01\Exercicios01\bin\Debug\net6.0\Exercicios01.exe
+D:\Fiap2\EnterpriseApplicationDevelopment\VisualStudio\Exercicios01\Exercicios01\bin\Debug\net6.0\Exercicios01.deps.json
+D:\Fiap2\EnterpriseApplicationDevelopment\VisualStudio\Exercicios01\Exercicios01\bin\Debug\net6.0\Exercicios01.runtimeconfig.json
+D:\Fiap2\EnterpriseApplicationDevelopment\VisualStudio\Exercicios01\Exercicios01\bin\Debug\net6.0\Exercicios01.dll
+D:\Fiap2\EnterpriseApplicationDevelopment\VisualStudio\Exercicios01\Exercicios01\bin\Debug\net6.0\Exercicios01.pdb
+D:\Fiap2\EnterpriseApplicationDevelopment\VisualStudio\Exercicios01\Exercicios01\obj\Debug\net6.0\Exercicios01.csproj.AssemblyReference.cache
+D:\Fiap2\EnterpriseApplicationDevelopment\VisualStudio\Exercicios01\Exercicios01\obj\Debug\net6.0\Exercicios01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fiap2\EnterpriseApplicationDevelopment\VisualStudio\Exercicios01\Exercicios01\obj\Debug\net6.0\Exercicios01.AssemblyInfoInputs.cache
+D:\Fiap2\EnterpriseApplicationDevelopment\VisualStudio\Exercicios01\Exercicios01\obj\Debug\net6.0\Exercicios01.AssemblyInfo.cs
+D:\Fiap2\EnterpriseApplicationDevelopment\VisualStudio\Exercicios01\Exercicios01\obj\Debug\net6.0\Exercicios01.csproj.CoreCompileInputs.cache
+D:\Fiap2\EnterpriseApplicationDevelopment\VisualStudio\Exercicios01\Exercicios01\obj\Debug\net6.0\Exercicios01.dll
+D:\Fiap2\EnterpriseApplicationDevelopment\VisualStudio\Exercicios01\Exercicios01\obj\Debug\net6.0\refint\Exercicios01.dll
+D:\Fiap2\EnterpriseApplicationDevelopment\VisualStudio\Exercicios01\Exercicios01\obj\Debug\net6.0\Exercicios01.pdb
+D:\Fiap2\EnterpriseApplicationDevelopment\VisualStudio\Exercicios01\Exercicios01\obj\Debug\net6.0\Exercicios01.genruntimeconfig.cache
+D:\Fiap2\EnterpriseApplicationDevelopment\VisualStudio\Exercicios01\Exercicios01\obj\Debug\net6.0\ref\Exercicios01.dll
